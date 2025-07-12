@@ -10,8 +10,8 @@
         <p class="mb-4 text-gray-600">"The professional training completely transformed my career in the culinary
             industry."</p>
         <div>
-            <div class="flex space-x-2">
-                <img src="{{ asset('images/students/FRAME (1).png') }}" alt="Student Photo"
+            <div class="flex space-x-2 items-center">
+                <img src="{{ asset('images/students/student1.png') }}" alt="Student Photo"
                     class="w-12 h-12 rounded-full object-cover">
                 <div>
                     <div class="text-orange-950 text-sm font-bold">Student Name</div>
@@ -31,8 +31,8 @@
         <p class="mb-4 text-gray-600">"Excellent instructors and comprehensive courses. I now run my own successful
             pastry shop."</p>
         <div>
-            <div class="flex space-x-2">
-                <img src="{{ asset('images/students/FRAME (2).png') }}" alt="Student Photo"
+            <div class="flex space-x-2 items-center">
+                <img src="{{ asset('images/students/student2.png') }}" alt="Student Photo"
                     class="w-12 h-12 rounded-full object-cover">
                 <div>
                     <div class="text-orange-950 text-sm font-bold">Student Name</div>
@@ -52,8 +52,8 @@
         <p class="mb-4 text-gray-600">"The hands-on experience and business insights were invaluable for my
             entrepreneurial journey."</p>
         <div>
-            <div class="flex space-x-2">
-                <img src="{{ asset('images/students/FRAME (3).png') }}" alt="Student Photo"
+            <div class="flex space-x-2 items-center">
+                <img src="{{ asset('images/students/student3.png') }}" alt="Student Photo"
                     class="w-12 h-12 rounded-full object-cover">
                 <div>
                     <div class="text-orange-950 text-sm font-bold">Student Name</div>

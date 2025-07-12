@@ -4,7 +4,7 @@
         @include('partials.head')
         <script src="https://kit.fontawesome.com/a1725e5cd6.js" crossorigin="anonymous"></script>
     </head>
-    <body class="min-h-screen bg-white dark:bg-zinc-800">
+    <body class="min-h-screen bg-white dark:bg-zinc-800 fo">
         <flux:header container class="bg-white dark:border-zinc-700 dark:bg-zinc-900">
             <flux:sidebar.toggle class="lg:hidden" icon="bars-2" inset="left" />
 
